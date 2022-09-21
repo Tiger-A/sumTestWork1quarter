@@ -2,7 +2,7 @@
 Clear();
 
 
-string[] array1 = new string[6] {"Portland", "Bob", "say", "miss", "stay", "dog"};
+string[] array1 = new string[6] {"Portland", "Bob", "say", "brother", "stay", "dog"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
